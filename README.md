@@ -1,2 +1,2 @@
 # Kirito
-first commit
+kt、音视频、openGL、ffmpeg
