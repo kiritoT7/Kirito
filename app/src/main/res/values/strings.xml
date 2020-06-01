@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kirito</string>
+
+
+
+    <string name="bottom_bar_one">One</string>
+    <string name="bottom_bar_two">Two</string>
+    <string name="bottom_bar_three">Three</string>
+    <string name="bottom_bar_four">Four</string>
+</resources>

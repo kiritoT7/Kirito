@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/item_home"
+        android:icon="@drawable/ic_showcase"
+        android:title="@string/bottom_bar_one"
+        app:showAsAction="always|withText"/>
+
+    <item
+        android:id="@+id/item_camera"
+        android:icon="@drawable/ic_device"
+        android:title="@string/bottom_bar_two"
+        app:showAsAction="always|withText"/>
+
+    <item
+        android:id="@+id/item_video"
+        android:icon="@drawable/ic_lottiefiles"
+        android:title="@string/bottom_bar_three"
+        app:showAsAction="always|withText"/>
+
+    <item
+        android:id="@+id/item_my"
+        android:icon="@drawable/ic_learn"
+        android:title="@string/bottom_bar_four"
+        app:showAsAction="always|withText"/>
+</menu>
